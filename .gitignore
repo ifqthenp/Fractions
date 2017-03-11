@@ -1,0 +1,10 @@
+### Gradle template
+.gradle
+build/
+gradle-app.setting
+!gradle/wrapper/gradle-wrapper.jar
+.gradletasknamecache
+
+### Idea template
+out/
+.idea/
